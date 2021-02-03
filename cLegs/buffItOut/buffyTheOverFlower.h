@@ -1,0 +1,5 @@
+
+
+
+void vulnFunc();
+void callingFunc();
